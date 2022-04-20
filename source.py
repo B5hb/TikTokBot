@@ -565,7 +565,7 @@ if __name__ == '__main__':
     
 
     # url input
-    Write.Print("[?]  URL ↓\n", Colors.blue_to_purple, interval=0.001)
+    Write.Print("[?]  URL Video TikTok\n", Colors.blue_to_purple, interval=0.001)
     vidUrl = Write.Input(" >  ", Colors.blue_to_purple, interval=0.5, hide_cursor=True)
 
     # credits
